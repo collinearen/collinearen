@@ -49,7 +49,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DanyaVolkov&theme=dark)](https://github.com/collinearen/leetcode-stats)
 
 ## Have a look at my latest project
-###![Static Badge](https://img.shields.io/badge/Share-this?logo=sharex&labelColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Fcollinearen%2Fshare-this-project) ~ My target project and future thesis
+![Static Badge](https://img.shields.io/badge/Share-this?logo=sharex&labelColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Fcollinearen%2Fshare-this-project) ~ My target project and future thesis
 
 
 ### ⚙️ GitHub states:
