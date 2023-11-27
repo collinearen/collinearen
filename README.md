@@ -1,4 +1,3 @@
-
 # Hello👋 
 # This is Danya Volkov!
 
@@ -12,7 +11,7 @@
 
 * My team and I took part in the interregional competition SmolHakaton and showed a high level of skill
 
-<img src="/Users/ya/Desktop/2121.jpg" width="240px" style="border-radius: 10px"> 
+<img src="[/Users/ya/Desktop/2121.jpg](https://github.com/collinearen/source/blob/main/2121.jpg)" width="240px" style="border-radius: 10px"> 
 
 * In love with python 🐍
 
