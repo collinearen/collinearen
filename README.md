@@ -49,16 +49,8 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DanyaVolkov&theme=dark)](https://github.com/collinearen/leetcode-stats)
 
 ## Have a look at my latest project
-### [Bart Bot](https://github.com/MishaVyb/bart-bot)
-![](https://img.shields.io/badge/PTB-20.1-blue) ![](https://img.shields.io/badge/Pyrogram-2.0.1-blue) ![](https://img.shields.io/badge/Anyio-3.6.2-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.4-blue) <br>
-Telegram bot to handle your pet photos. 
-### [Weather Collector](https://github.com/MishaVyb/weather-collector)
-![](https://img.shields.io/badge/Pydantic-1.10.2-blue) ![](https://img.shields.io/badge/APScheduler-3.9.1-blue) ![](https://img.shields.io/badge/SQLAlchemy-1.4.4-blue) <br>
-CLI application to collect and store weather in different cities. 
+### ![Static Badge](https://img.shields.io/badge/Share-this?logo=sharex&labelColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Fcollinearen%2Fshare-this-project) ~ My target project and future thesis
 
-### [Bizarre Poker](https://github.com/MishaVyb/bizarre-poker)
-![](https://img.shields.io/badge/Django-4.1-blue) ![](https://img.shields.io/badge/DRF-3.13-blue) ![](https://img.shields.io/badge/Pytest-7.1.2-blue) <br>
-Single page web application to play in Poker. 
 
 ### ⚙️ GitHub states:
 <table>
