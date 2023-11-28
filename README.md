@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
-## About me:
+## About me
 
 * 🛠 I am backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Technologies I have:
+## 💻 Technologies I have
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -52,7 +52,7 @@
 ![Static Badge](https://img.shields.io/badge/Share-this?logo=sharex&labelColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Fcollinearen%2Fshare-this-project) ~ My target project and future thesis
 
 
-### ⚙️ GitHub states:
+### ⚙️ GitHub states
 <table>
   <tr>
     <td>
