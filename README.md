@@ -17,7 +17,7 @@
 
 * Learning Golang 📖
 
-## 🤝 Social media:
+## 🤝 Social media
 
   <div id="badges">
     <a href="https://t.me/collinearen" target="_blank">
